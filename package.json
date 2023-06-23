@@ -1,0 +1,34 @@
+{
+  "name": "betty-zinkstar-complete",
+  "version": "1.0.0",
+  "description": "A Full-stack development for ZinkStar DEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "vercel test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shootingstar-fi/betty-zinkstar-complete.git"
+  },
+  "keywords": [
+    "zksync",
+    "decentrialize",
+    "zinkstar",
+    "farming",
+    "liquidity"
+  ],
+  "author": "Water Cat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shootingstar-fi/betty-zinkstar-complete/issues"
+  },
+  "homepage": "https://github.com/shootingstar-fi/betty-zinkstar-complete#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "express-history-api-fallback": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
